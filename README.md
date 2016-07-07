@@ -6,7 +6,7 @@ Applications needed
 1. Node JS
 2. Socket.io
 
-In order to get things running:
+In order to get things running: \n
 1.	Go to directory using terminal with all the downloaded folders
 2.	Run Npm init (gets package.json file)
 3.	Run Npm install express (installs the library files)
