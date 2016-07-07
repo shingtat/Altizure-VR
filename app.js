@@ -8,7 +8,7 @@ app.get('/',function(req, res) {
 
 //Allows content to be accessed from the following directories
 app.use('/js', express.static(__dirname + '/js'));
-app.use('/cyt_models', express.static(__dirname + '/cyt_models'));
+app.use('/models', express.static(__dirname + '/models'));
 app.use('/build', express.static(__dirname + '/build'));
 
 serv.listen(2000);
