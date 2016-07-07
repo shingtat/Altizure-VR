@@ -1,0 +1,69 @@
+#  
+#  Wavefront MTL
+#  
+#  
+
+newmtl tile_1_0_0_obj_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tile_1_0_0_tex0.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ka tile_1_0_0_tex0.jpg
+map_Ns
+
+newmtl tile_1_16_16_obj_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tile_1_16_16_tex0.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ka tile_1_16_16_tex0.jpg
+map_Ns
+
+newmtl tile_1_0_16_obj_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tile_1_0_16_tex0.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ka tile_1_0_16_tex0.jpg
+map_Ns
+
+newmtl tile_1_16_0_obj_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tile_1_16_0_tex0.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ka tile_1_16_0_tex0.jpg
+map_Ns
+
