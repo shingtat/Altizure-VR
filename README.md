@@ -21,3 +21,7 @@ In order to get things running:
 6.  Access server using phone and see that socket connection between
     computer and mobile has been established. Utilizing WASD will move the camera
     front, left, back and right respectively.
+
+index2.html applies the Oculus Rift Effect instead of the default Stereoscopic Effect in index.html
+
+![Alt text](/altizure-vr_screenshot.jpg?raw=true "Optional Title")
